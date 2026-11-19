@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Name** | _your full name_ |
-| **Nickname** | _your nickname_ |
-| **Student ID** | _6xxxxxxxx_ |
+| **Name** | _Watcharachai Leatsuriyakarn_ |
+| **Nickname** | _Washi |
+| **Student ID** | _692115037_ |
 | **Section** | 701 |
 
 ## How to run
