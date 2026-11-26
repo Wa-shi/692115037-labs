@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Name** | _your full name_ |
-| **Nickname** | _your nickname_ |
-| **Student ID** | _6xxxxxxxx_ |
+| **Name** | _Watcharachai_ |
+| **Nickname** | _Washi_ |
+| **Student ID** | _692115037_ |
 | **Section** | 701 |
 
 ## How to run
@@ -18,12 +18,16 @@ npm start        # Part D — the daily report
 
 ## My own function (Part D)
 
-_Name of your function, what it returns, and which array methods it uses._
+`itemsWithTag(menu, tag)` returns the names of the menu items that have the given tag.
+It uses `filter` (with `includes`) to keep only the items whose `tags` contain the tag,
+then `map` to turn each item into its name.
 
 ## What I learned today
 
-_Write 2–3 sentences in your own words: when would you use map, filter, find and reduce?_
+I use `map` to change every item into something else, like menu items into names,
+and `filter` to keep only the items I need. I use `find` to get one item by its id,
+and `reduce` to combine a whole array into one value, like the total sales of the day.
 
 ## AI-use statement
-
-_Did you use an AI tool in this lab? If yes, which one and for what. If no, write "No AI tools used."_
+I used Claude to explain JavaScript concepts and error messages, and to help me
+debug my code. When I was stuck, it showed me example solutions and code outlines.
